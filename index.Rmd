@@ -4540,7 +4540,7 @@ Starwars <- as.data.frame(starwars[,c(1:4,6,10,11)])
 
 ```{r, prompt=TRUE, echo=FALSE}
 library(readr)
-Starwars <- read.csv("https://github.com/kakoste/Uvod_u_R_i_R_Studio/blob/main/starwars_fiksni.csv")
+Starwars <- read.csv("https://raw.githubusercontent.com/kakoste/Uvod_u_R_i_R_Studio/blob/main/starwars_fiksni.csv")
 ```
 
 ```{r, prompt=TRUE}
