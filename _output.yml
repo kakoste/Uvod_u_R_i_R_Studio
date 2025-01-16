@@ -1,0 +1,27 @@
+bookdown::gitbook:
+  css: style.css
+  encoding: UTF-8
+  documentclass: book
+  config:
+    toc:
+      before: |
+        <li><a href="./">Uvod u R i R Studio</a></li>
+        <li><img src='intro.png' width='280px'></li>
+      after: |
+        <li><img src='unipu.png' width='250px'></li>
+        <li><a href=" " target="blank"> <br> Published with bookdown </a></li>
+      scroll_highlight: true
+      collapse: section
+      toolbar:
+        position: fixed
+    toc_depth: 2
+    lot: yes
+    lof: yes
+  edit : null
+  download: ["pdf", "epub"]
+  search:
+    engine: lunr
+  sharing: null
+bookdown::pdf_book:
+  keep_tex: yes
+bookdown::epub_book: default

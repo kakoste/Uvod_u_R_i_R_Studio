@@ -1,0 +1,12 @@
+book_filename: "Uvod u R i R Studio"
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: 'Slika'
+    tab: 'Tablica'
+  ui:
+    chapter_name: " "
+    encoding: UTF-8
+rmd_files: ["index.Rmd"]
+output_dir: "docs"
