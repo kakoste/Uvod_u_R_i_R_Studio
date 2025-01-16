@@ -9,4 +9,3 @@ language:
     chapter_name: " "
     encoding: UTF-8
 rmd_files: ["index.Rmd"]
-output_dir: "docs"
