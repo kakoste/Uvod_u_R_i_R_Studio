@@ -1,4 +1,4 @@
-book_filename: "Uvod u R i R Studio"
+book_filename: "uvod-u-r-i-r-studio"
 clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
 language:
