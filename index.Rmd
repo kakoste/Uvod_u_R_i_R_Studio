@@ -287,12 +287,12 @@ Potrebno je prvo instalirati R na računalo, a potom RStudio. Najbolje je R preu
 
 
 <div class="text" style="float: center; margin-left: 10px;">
-![Preuzimanje putem CRAN-a](CRAN.png){width=600px}
+![Preuzimanje putem CRAN-a](https://raw.githubusercontent.com/kakoste/kakoste/Uvod_u_R_i_R_Studio/CRAN.png){width=600px}
 </div>
 <br>
 
 <div class="text-align: center;">
-![Preuzimanje putem posit-a](Install.png){height=500px}
+![Preuzimanje putem posit-a](https://raw.githubusercontent.com/kakoste/kakoste/Uvod_u_R_i_R_Studio/Install.png){height=500px}
 </div>
 <br>
 
