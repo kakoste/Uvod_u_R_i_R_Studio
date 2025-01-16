@@ -5,13 +5,6 @@ date: ' '
 output:
   html_document:
     df_print: paged
-  bookdown::epub_book:
-    toc: yes
-    number_sections: no
-    toc_depth: 3
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
 fontsize: 12pt
 biblio-style: apalike
 bibliography: bibfile.bib
