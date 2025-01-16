@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   encoding: UTF-8
+  self_contained: true
   documentclass: book
   config:
     toc:
